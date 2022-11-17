@@ -23,7 +23,7 @@
      * within 'navbar', we have groups of links - the new group I'm adding is called 'navbar_section'
      * Each section is just a <ol> of elements - within our section, we create 'container' to house the items in our sesction
      * Each item in our 'container' is something within a <li>
-     * The first thing in our container is the title. We make an li for it ('text-header'), and then we put the title itself in a div. This div is called 'dafrfaavarjkgf'
+     * The first thing in our container is the title. We make an li for it ('text-header'), and then we put the title itself in a div. This div is called 'txet_header_div'
      * Then, for the links, we just make an <a> element within a <li> for each, and then put said <li> back into 'container'
      */
     let navbar = document.getElementsByClassName("nav-links")[0];
@@ -32,10 +32,10 @@
     container.className = "nav-links";
     let text_header = document.createElement("li");
     text_header.className = "d-flex ai-center jc-space-between ml8 mt24 mb4 js-create-team-cta";
-    let dafrfaavarjkgf = document.createElement("div");
-    dafrfaavarjkgf.innerText = "Custom Links";
-    dafrfaavarjkgf.classList = "flex--item tt-uppercase fs-fine fc-light";
-    text_header.appendChild(dafrfaavarjkgf);
+    let txet_header_div = document.createElement("div");
+    txet_header_div.innerText = "Custom Links";
+    txet_header_div.classList = "flex--item tt-uppercase fs-fine fc-light";
+    text_header.appendChild(txet_header_div);
     container.appendChild(text_header);
     navbar_section.appendChild(container);
     navbar.appendChild(navbar_section);
