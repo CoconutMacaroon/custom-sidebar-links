@@ -18,5 +18,4 @@ This is a Tampermonkey userscript (tested in Firefox) to enable support for cust
    You can put whatever you want there, including links to chatrooms. For example, to add a link titled `Tavern on the Meta` with a link to that chatroom, you would add `URLs.set("Tavern on the Meta", "https://chat.meta.stackexchange.com/rooms/89/tavern-on-the-meta");` to that section.
    
 ## TODO
-- [x] Rename the variable called `dafrfaavarjkgf` to something descriptive - completed in [this commit](https://github.com/CoconutMacaroon/better-sidebar/commit/57808d0a3877945d0792d70c05a991519141951d)
-- [ ] Add a UI for adding/removing links
+See the TODO list [on stackapps](https://stackapps.com/a/9571)
