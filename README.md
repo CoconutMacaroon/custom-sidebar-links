@@ -1,6 +1,6 @@
-# Better Sidebar
+# Custom Sidebar Links
 
-<kbd>[Install](https://github.com/CoconutMacaroon/better-sidebar/raw/main/sidebar.user.js)</kbd>
+<kbd>[Install](https://github.com/CoconutMacaroon/custom-sidebar-links/raw/main/sidebar.user.js)</kbd>
 
 This is a Tampermonkey userscript (tested in Firefox) to enable support for custom links in the Stack Exchange sidebars
 
