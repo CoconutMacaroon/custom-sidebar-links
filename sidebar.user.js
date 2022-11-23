@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Better Sidebar
+// @name         Custom Sidebar Links
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Supports adding custom links to the SO sidebar
 // @author       You
 // @match        https://*.stackexchange.com/*
