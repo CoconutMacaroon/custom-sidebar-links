@@ -11,6 +11,7 @@
 // @match        https://*.askubuntu.com/*
 // @match        https://*.stackapps.com/*
 // @match        https://*.mathoverflow.net/*
+// @match        https://stackoverflowteams.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=stackoverflow.com
 // @grant        none
 // ==/UserScript==
